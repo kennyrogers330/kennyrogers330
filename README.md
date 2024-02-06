@@ -8,8 +8,8 @@ I've been enthusiastic about Software Development, Data Analysis, and Engineerin
 
 * 🌍  I'm based in Kigali
 * ✉️  You can contact me at [kennyrogers330@gmail.com](mailto:kennyrogers330@gmail.com)
-* 🧠  I'm learning REACT
-* 🤝  I'm open to collaborating on Any type of Classification Machine Learning project as well as T24 support/development projects
+* 🧠  I'm pursuing a Masters Degree at Carnegie Mellon University with a concentration in Software Engineering. 
+* 🤝  I'm open to work on Full Stack Web Development projects. 
 
 ### Skills
 
